@@ -1,5 +1,4 @@
-# Data science Final project
-# LOGISTIC REGRESSION
+# Data science Final project [Customer Purchase Prediction using Logistic Regression]
 
 # 1.Aman Kumar Ray(ACE080BCT010)
 # 2.Arjita Yadav(ACE080BCT015)
@@ -114,3 +113,4 @@ def predict_purchase():
 
 # Call the function for user input prediction
 predict_purchase()
+
