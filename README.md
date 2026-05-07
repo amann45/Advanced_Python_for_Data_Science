@@ -1,1 +1,2 @@
+## Python for Data science
 This repository presents a activities related to Data Science. Using Python and libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn, we analyzes datasets to uncover patterns and build predictive models. The results provide meaningful insights and highlight the effectiveness of data-driven decision-making, with scope for further improvement. This activities is basics workflow for building concepts of AI and Machine Learning.
